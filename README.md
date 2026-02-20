@@ -30,7 +30,4 @@ This GitHub will document my journey towards industry-recognised professional ce
 - Preparing confidently for CSTM  
 
 --- 
-<div align="center">
-Thanks for stopping by 🌸  
-This is just the beginning
-</div>
+<p align="center"><em>Thanks for stopping by 🌸 This is just the beginning</em></p>
