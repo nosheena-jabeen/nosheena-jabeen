@@ -1,26 +1,18 @@
 ## Hi there 🌸👋
 
 ### Offensive Security & Penetration Testing | Field Engineer | Intelligence Analysis
-I'm a cybersecurity professional transitioning from military intelligence into offensive security — and currently rebuilding my foundations from the ground up.
+I'm a DV-cleared cybersecurity professional transitioning from military intelligence into offensive security, bringing structured analytical thinking and experience in high-trust environments into a new technical direction. After gaining exposure to web application testing and defence-focused security work, I’ve chosen to deliberately rebuild and strengthen my foundations from the ground up. 
 
-This GitHub (for now) is my documented journey towards **CSTM (Cyber Scheme Team Member)**.
-
-I'm deliberately strengthening my core capability across:
-
-- 🌐 Web Application Testing  
-- 🪟 Windows Security  
-- 🐧 Linux Security  
-
-Just structured learning, consistent practice, and real technical growth ✨
+This GitHub will document my journey towards industry-recognised professional certifications, while developing disciplined methodology across web, Windows, and Linux environments through structured labs, technical write-ups, and consistent hands-on practice. The focus is simple: building real, demonstrable capability step by step.
 
 ### 🎓 Certifications
 
+- 📚 CompTIA A+ (In Progress)  
+- 🎯 CSTM – In Training (Target 2026)
 - 🎖️ Fortinet Certified Associate (FCA) – Cybersecurity  
 - 🎖️ Fortinet Certified Fundamentals (FCF) – Cybersecurity  
 - 🎓 Level 5 Cybersecurity & Networking (Distinction)  
 - 🛠️ Penetration Testing – Abertay University  
-- 📚 CompTIA A+ (In Progress)  
-- 🎯 CSTM – In Training (Target 2026)
 
 ### 📖 What You’ll Find Here (For Now 💗)
 
@@ -38,6 +30,7 @@ Just structured learning, consistent practice, and real technical growth ✨
 - Preparing confidently for CSTM  
 
 --- 
-
+<div align="center">
 Thanks for stopping by 🌸  
-This is just the beginning.
+This is just the beginning
+</div>
