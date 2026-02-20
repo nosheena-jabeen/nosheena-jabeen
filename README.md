@@ -1,13 +1,6 @@
-# Hi there 🌸👋
+## Hi there 🌸👋
 
-🔐 DV Cleared  
-🛡️ Aspiring Offensive Security Consultant  
-📍 Staffordshire, UK  
-
----
-
-## 💕 About Me
-
+### Offensive Security & Penetration Testing | Field Engineer | Intelligence Analysis
 I'm a cybersecurity professional transitioning from military intelligence into offensive security — and currently rebuilding my foundations from the ground up.
 
 This GitHub (for now) is my documented journey towards **CSTM (Cyber Scheme Team Member)**.
@@ -20,20 +13,16 @@ I'm deliberately strengthening my core capability across:
 
 Just structured learning, consistent practice, and real technical growth ✨
 
----
-
-## 🎓 Certifications
+### 🎓 Certifications
 
 - 🎖️ Fortinet Certified Associate (FCA) – Cybersecurity  
 - 🎖️ Fortinet Certified Fundamentals (FCF) – Cybersecurity  
 - 🎓 Level 5 Cybersecurity & Networking (Distinction)  
 - 🛠️ Penetration Testing – Abertay University  
 - 📚 CompTIA A+ (In Progress)  
-- 🎯 CSTM – In Training (Target 2026)  
+- 🎯 CSTM – In Training (Target 2026)
 
----
-
-## 📖 What You’ll Find Here (For Now 💗)
+### 📖 What You’ll Find Here (For Now 💗)
 
 - 📝 Lab write-ups & structured notes
 - 🛡️ CSTM preparation tracking:
@@ -41,16 +30,14 @@ Just structured learning, consistent practice, and real technical growth ✨
   - 🪟 Windows enumeration practice  
   - 🐧 Linux privilege escalation learning
 
----
-
-## 🌟 Current Focus
+### 🌟 Current Focus
 
 - Strengthening enumeration methodology  
 - Improving technical reporting  
 - Deepening Linux & Windows fundamentals  
 - Preparing confidently for CSTM  
 
----
+--- 
 
 Thanks for stopping by 🌸  
 This is just the beginning.
