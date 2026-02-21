@@ -1,7 +1,7 @@
 ## Hi there 🌸👋
 
 ### Offensive Security & Penetration Testing | Field Engineer | Intelligence Analysis
-I'm a DV-cleared cybersecurity professional transitioning from military intelligence into offensive security, bringing structured analytical thinking and experience in high-trust environments into a new technical direction. After gaining exposure to web application testing and defence-focused security work, I’ve chosen to deliberately rebuild and strengthen my foundations from the ground up. 
+DV-cleared cybersecurity professional transitioning from military intelligence into offensive security, bringing structured analytical thinking and experience in high-trust environments into a new technical direction. After gaining exposure to web application testing and defence-focused security work, I’ve chosen to deliberately rebuild and strengthen my foundations from the ground up. 
 
 This GitHub will document my journey towards industry-recognised professional certifications, while developing disciplined methodology across web, Windows, and Linux environments through structured labs, technical write-ups, and consistent hands-on practice. The focus is simple: building real, demonstrable capability step by step.
 
