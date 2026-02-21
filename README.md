@@ -7,7 +7,7 @@ This GitHub will document my journey towards industry-recognised professional ce
 
 ### 🎓 Certifications
 
-- 📚 CompTIA A+ (In Progress)  
+- 📚 CompTIA A+ - In Training (Target 2026)
 - 🎯 CSTM – In Training (Target 2026)
 - 🎖️ Fortinet Certified Associate (FCA) – Cybersecurity  
 - 🎖️ Fortinet Certified Fundamentals (FCF) – Cybersecurity  
